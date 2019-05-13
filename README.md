@@ -1,8 +1,7 @@
 # DC-Crime
-An analysis of registered crimes in Washington DC over a 10 year span
+An analysis of > 350,000 registered crimes over a 10 year span in Washington DC was conducted.
 
-
-Washington DC has a long history of struggling to deal with inner-city crime.  In 1997, the NBA DC basketball team even changed its name from the Washington Bullets to the Wizards.  For this project an in depth analysis of crime was conducted in Washington DC.  The purpose of this research is to better understand what contributes specifically to violent crime.  While non-violent crime is of course important to understand, everyone can agree that violent crime has no place in our society.  I built several predictive models to differentiate violent and non-violent crime, in order to comprehend what variables contribute to violent crime in Washington DC.
+DC has long struggled with a history inner-city crime.  In 1997, the Washington NBA basketball team even changed its name from the Bullets to the Wizards.  The aim of this investigation is to better understand what contributing factors influence violent crime in specific.  Sevearl datasets derived from opendata.gov were merged together into one single dataset.  Several models were created.  These models differentiate violent and non-violent crime.  Some data imputation was required to acheive this, including the creation of a violent/non-violent column.  Understanding what predicts violent crime enables police to allocate resources more effectively.  Furthermore, preventative measures can be targeted more specifically.
 
 Please view the write up for a detailed written explanation of the project.  The code is partially avaialable in the WastonModels.pdf
 
